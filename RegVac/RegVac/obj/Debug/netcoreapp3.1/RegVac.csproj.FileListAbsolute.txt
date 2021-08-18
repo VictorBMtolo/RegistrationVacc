@@ -1,0 +1,14 @@
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.exe
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.deps.json
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.runtimeconfig.json
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.runtimeconfig.dev.json
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.dll
+C:\Users\bianc\source\repos\RegVac\RegVac\bin\Debug\netcoreapp3.1\RegVac.pdb
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.AssemblyInfoInputs.cache
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.AssemblyInfo.cs
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.dll
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.pdb
+C:\Users\bianc\source\repos\RegVac\RegVac\obj\Debug\netcoreapp3.1\RegVac.genruntimeconfig.cache
