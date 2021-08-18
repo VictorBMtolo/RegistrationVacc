@@ -8,7 +8,7 @@ namespace RegVac
         {
             Console.WriteLine("Hello, Welcome to Vaccine Registration !");
 
-            Console.WriteLine("Enter your ID:");
+            Console.WriteLine("Enter your Identification:");
             string age = Console.ReadLine();
             
             Console.WriteLine("Enter your Surname:");
