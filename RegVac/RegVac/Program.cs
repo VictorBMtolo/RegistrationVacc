@@ -21,8 +21,8 @@ namespace RegVac
             Console.WriteLine("Enter your Gender:");
             string gender = Console.ReadLine();
             
-            Console.WriteLine("Enter your Date of Birth (dd/mm/year):");
-            string birth = Console.ReadLine();
+            Console.WriteLine("Enter your Date of vaccination (dd/mm/year):");
+            string vac = Console.ReadLine();
 
             Console.WriteLine("Enter your Province");
             string province = Console.ReadLine();
@@ -31,7 +31,7 @@ namespace RegVac
             Console.WriteLine("Your Surnanme is: " + surName);
             Console.WriteLine("Your Nanme is: " + name);
             Console.WriteLine("Your gender is: " + gender);
-            Console.WriteLine("Your Date of Birth is: " + birth);
+            Console.WriteLine("Your Date of vaccination is: " + vac);
             Console.WriteLine("Your Province is: " + province);
 
 
